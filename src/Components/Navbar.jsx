@@ -68,7 +68,7 @@ const Navbar = () => {
               to="/login" 
               className="ml-4 px-4 py-2 rounded-lg font-medium text-amber-600 hover:bg-amber-50 transition-all"
             >
-              LogIn
+              Become a Guide
             </NavLink>
           </div>
 
